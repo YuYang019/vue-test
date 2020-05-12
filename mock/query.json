@@ -1,0 +1,16 @@
+{
+    "status": 0,
+    "statusInfo": "success",
+    "data": [
+        {
+            "id": 1,
+            "name": "aaa",
+            "isValid": 0
+        },
+        {
+            "id": 2,
+            "name": "bbb",
+            "isValid": 1
+        }
+    ]
+}
